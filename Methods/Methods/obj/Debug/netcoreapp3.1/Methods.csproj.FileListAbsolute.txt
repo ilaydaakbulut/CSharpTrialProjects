@@ -1,0 +1,13 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
