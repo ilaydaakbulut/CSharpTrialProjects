@@ -1,0 +1,6 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\Loops\Loops\obj\Debug\Loops.pdb
