@@ -1,0 +1,7 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.pdb

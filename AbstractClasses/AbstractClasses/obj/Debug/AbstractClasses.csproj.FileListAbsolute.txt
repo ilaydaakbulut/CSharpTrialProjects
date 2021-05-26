@@ -1,0 +1,6 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

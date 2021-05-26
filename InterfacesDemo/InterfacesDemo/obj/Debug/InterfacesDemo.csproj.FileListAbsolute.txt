@@ -1,0 +1,7 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
