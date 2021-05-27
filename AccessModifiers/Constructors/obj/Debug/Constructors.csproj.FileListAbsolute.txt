@@ -1,0 +1,7 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\bin\Debug\Constructors.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\bin\Debug\Constructors.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\obj\Debug\Constructors.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\obj\Debug\Constructors.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\AccessModifiers\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
