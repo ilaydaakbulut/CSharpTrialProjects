@@ -1,0 +1,7 @@
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\bin\Debug\ReferanceAndValueTyoe.exe.config
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\bin\Debug\ReferanceAndValueTyoe.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\bin\Debug\ReferanceAndValueTyoe.pdb
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\obj\Debug\ReferanceAndValueTyoe.csprojAssemblyReference.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\obj\Debug\ReferanceAndValueTyoe.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\obj\Debug\ReferanceAndValueTyoe.exe
+C:\Users\akbul\OneDrive\Belgeler\GitHub\CSharpTrialProjects\ReferanceAndValueTyoe\ReferanceAndValueTyoe\obj\Debug\ReferanceAndValueTyoe.pdb
