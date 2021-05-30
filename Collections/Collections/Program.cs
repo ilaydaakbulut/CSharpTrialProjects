@@ -92,7 +92,8 @@ namespace Collections
             {
                 Console.WriteLine(item.Key+"  "+item.Value);
             }
-            Console.WriteLine(dictionary.ContainsKey("glass")  ); //false döner 
+            Console.WriteLine(dictionary.ContainsKey("glass")  ); //false döner
+            
             Console.ReadLine();
         }
     }
