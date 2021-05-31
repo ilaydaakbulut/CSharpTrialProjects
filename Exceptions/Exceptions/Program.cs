@@ -41,7 +41,32 @@ namespace Exceptions
             {
                 Console.WriteLine(exception.Message);
             }
+            HandleException(() =>
+            {
+                List<string> students2 = new List<string> { "melisa", "ecem", "ilayda" };
+
+                if (!students2.Contains("ahmet"))
+                {
+                    throw new RecordNotFoundException("record not found");
+                }
+                else
+                {
+                    Console.WriteLine("record foud");
+                }
+            });
             Console.ReadLine();
+        }
+
+        private static void HandleException(Action action)
+        {
+            try
+            {
+                action.Invoke();
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
         }
     }
 }
