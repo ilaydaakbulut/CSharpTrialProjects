@@ -24,6 +24,23 @@ namespace Exceptions
                 Console.WriteLine(exception.InnerException); //varsa daha detaylı bilgi verir               
             }
             
+            try
+            {
+                List<string> students2 = new List<string> { "melisa", "ecem", "ilayda" };
+
+                if (!students2.Contains("ahmet"))
+                {
+                    throw new RecordNotFoundException("record not found");
+                }
+                else
+                {
+                    Console.WriteLine("record foud");
+                }
+            }
+            catch (RecordNotFoundException exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
             Console.ReadLine();
         }
     }
