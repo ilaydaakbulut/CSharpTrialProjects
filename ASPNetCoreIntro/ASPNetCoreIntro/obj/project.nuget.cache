@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9ODkzDGQkAe+04TwWJnljMl5LHB9ja70pOnArVFb/ZWKfh3pUezohErThS6Jzt5wdz5K37FRLzhkAszBNOyEg==",
+  "dgSpecHash": "FihZYpOyZecCYvM61wjshJoqBbfLYgwaLt8sgB8Tt/edNFLi9Zgp0N2bc+3q4kLRal4Bkuw1cOVVszv+WhujYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akbul\\OneDrive\\Masaüstü\\projeler\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
+  "projectFilePath": "C:\\Users\\akbul\\OneDrive\\Belgeler\\GitHub\\CSharpTrialProjects\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akbul\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\akbul\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

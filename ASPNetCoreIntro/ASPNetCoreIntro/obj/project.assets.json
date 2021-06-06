@@ -6237,11 +6237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akbul\\OneDrive\\Masaüstü\\projeler\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
+      "projectUniqueName": "C:\\Users\\akbul\\OneDrive\\Belgeler\\GitHub\\CSharpTrialProjects\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
       "projectName": "ASPNetCoreIntro",
-      "projectPath": "C:\\Users\\akbul\\OneDrive\\Masaüstü\\projeler\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
+      "projectPath": "C:\\Users\\akbul\\OneDrive\\Belgeler\\GitHub\\CSharpTrialProjects\\ASPNetCoreIntro\\ASPNetCoreIntro\\ASPNetCoreIntro.csproj",
       "packagesPath": "C:\\Users\\akbul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akbul\\OneDrive\\Masaüstü\\projeler\\ASPNetCoreIntro\\ASPNetCoreIntro\\obj\\",
+      "outputPath": "C:\\Users\\akbul\\OneDrive\\Belgeler\\GitHub\\CSharpTrialProjects\\ASPNetCoreIntro\\ASPNetCoreIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akbul\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,12 @@
 ﻿@model SaveCustomerViewModel
-@{
-    Layout = null;
-}
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>View</title>
-</head>
-<body>
+<h3 class="alert alert-success">müsteri ekle</h3>
+<form asp-controller="Customer" asp-action="SaveCustomer">
+    Id: <input asp-for="Customer.Id" /> <br />
+    Adı: <input asp-for="Customer.FirstName" /><br />
+    Soydadı: <input asp-for="Customer.LastName" /><br />
+    Sehir: <select asp-for="Customer.City" asp-items="Model.Cities"></select></select><br />
+    <button type="submit">Submit</button>
+</form>
 
-</body>
-</html>
-s
